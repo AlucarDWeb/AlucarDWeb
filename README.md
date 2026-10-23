@@ -1,5 +1,5 @@
 <pre>
-  1 -- AlucarDWeb.lua
+  1 -- AlucarDWeb
   2 -- Very passionate about the agentic era we're living in.
   3
   4 local me = {
