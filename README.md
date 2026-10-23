@@ -1,10 +1,10 @@
 <pre>
   1 -- AlucarDWeb
-  2 -- Very passionate about the agentic era we're living in.
+  2 -- Agentic era maximalist and accelerationist
   3
   4 local me = {
   5   name            = "Ferdinando",
-  6   role            = "iOS developer at Wallapop",
+  6   role            = "iOS~AI engineer at Wallapop",
   7   location        = "Barcelona",
   8   nvim_enthusiast = true,
   9   builds          = "tools for coding agents",
